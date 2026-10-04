@@ -1,0 +1,14 @@
+services:
+  module3-performance-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tnu-module3-performance
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+    volumes:
+      - ./data:/app/data

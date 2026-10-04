@@ -1,0 +1,29 @@
+{
+  "name": "module-3-performance-management",
+  "version": "1.0.0",
+  "description": "Module 3 — Performance Management Automation System (Complete Workflow) - The Neotia University",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  },
+  "keywords": [
+    "performance-management",
+    "group-d-monthly-evaluation",
+    "kra-kpi-quarterly-review",
+    "faculty-ecm-appraisal",
+    "hrms",
+    "tnu"
+  ],
+  "author": "University IT & Systems Engineering",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
