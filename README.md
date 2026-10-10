@@ -190,3 +190,11 @@ Access the application at `http://localhost:5000`.
    - Go to **Track C: Faculty ECM -> Management Outcomes & Official Letters**.
    - Click **"View Official Letter"** on Prof. Alok Chatterjee's completed ECM.
    - The formal University Letterhead order appears with reference number, ready for 1-click browser printing / PDF download.
+
+---
+
+## AUTHOR
+- **Project Lead**: **Abhishek Basu**
+- **GitHub**: [DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories)
+- **LinkedIn**: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)
+- **Email**: devabhishekbasu03@gmail.com
